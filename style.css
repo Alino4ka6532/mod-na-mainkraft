@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #F4A460;
+    border: 5px solid #D2691E;
+    border-radius: 7px;
+
+}
+header a {
+    text-decoration: none;
+    background-color: white;
+    border: 3px solid #D2691E;
+    border-radius: 7px;
+    padding: 2px;
+    color: black;
+}
+header img {
+    margin: 2px;
+    border: 5px solid #D2691E;
+    border-radius: 7px;
+}
+main h1 {
+    color:#A52A2A;
+    background-color: white;
+    border:3px solid #D2691E;
+    border-radius: 7px;
+    text-align: center;
+}
+footer {
+   
+   border-radius: 7px;
+   background-color: #F4A460;
+   border: 5px solid #D2691E;
+   margin: 2px;
+   padding: 2px;
+}
+footer p {
+    background-color: white;
+    border: 3px solid #D2691E;
+    border-radius: 7px;
+    margin: 2px;
+    padding: 2px;
+}
+nav a {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    margin: 2px;
+    padding: 2px;
+    border: 5px solid #F4A460; 
+    border-radius: 7px; 
+}
+nav {
+    background-color: #F5DEB3;
+    border: 5px solid #F4A460;
+    margin: 2px;
+    padding: 2px;
+    border-radius: 7px;
+}
+.proDuktiya {
+   background-color: #F4A460;
+   border-radius: 7px;
+   padding: 2px;
+}
+.sezonnoe-predlozenie-h2 {
+    color: blue;
+}
+.sezonnoe-predlozenie-img {
+    border: 3px solid blue;
+    border-radius: 7px;
+}
+.kak-kypit {
+  color: blue; 
+
+}
+.kak-kypit-kontakti {
+   background-color: white; 
+   text-decoration: none;
+   color: blue;
+   border: 3px solid blue;
+   padding: 2px;
+}
+.optom {
+  color: blue;  
+}
+.o-kompanii {
+    color: blue;
+}
+.knopka-na-verh {
+   background-color: white; 
+   text-decoration: none;
+   color: blue;
+   border: 3px solid blue;
+   padding: 2px;    
+}
