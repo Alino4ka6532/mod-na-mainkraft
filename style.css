@@ -94,3 +94,13 @@ nav {
    border: 3px solid blue;
    padding: 2px;    
 }
+main h2 {
+    text-align: center;
+}
+.nashi-feiverki {
+   color: blue; 
+}
+main img {
+   border: 3px solid blue;
+   border-radius: 7px; 
+}
